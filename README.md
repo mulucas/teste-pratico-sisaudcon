@@ -22,6 +22,27 @@ As principais funcionalidades entregues pela aplicação são:
 
 ---
 
+## 📸 Demonstração do Sistema (Telas)
+
+
+
+<p align="center">
+
+  <h3>Tela de Login</h3>
+
+  <img src="./img/login.png" alt="Tela de Login" width="300px"><br><br>
+
+  <h3>Tela de Cadastro de Usuário</h3>
+
+  <img src="./img/cadastro.png" alt="Tela de Cadastro de Usuário" width="300px"><br><br>
+
+  <h3>Tela de Cadastro e Listagem de Funcionários</h3>
+
+  <img src="./img/listagem.png" alt="Gerenciamento de Funcionários" width="350px">
+
+</p>
+
+---
 
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
